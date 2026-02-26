@@ -6,6 +6,8 @@ license = "MIT"
 description = "General purpose neurons to experiment with"
 
 [dependencies]
+anyhow = "1.0.102"
 ndarray = "0.17.2"
 ndarray-rand = "0.16.0"
+num-traits = "0.2.19"
 rand = "0.10.0"
